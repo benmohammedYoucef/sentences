@@ -1,4 +1,4 @@
 # sentences
 sentence collector
 --------------  
-This corpus is released under CC0 License
+This corpus is released under CC-0 License
